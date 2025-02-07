@@ -9,3 +9,6 @@ i now know what is markdown
 ``` javascript
 var mySwagLevel = 9001
 ```
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
